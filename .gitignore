@@ -1,0 +1,5 @@
+##################
+#Ignore API token#
+##################
+OpenWeather.js
+node_modules/
